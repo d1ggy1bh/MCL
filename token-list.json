@@ -1,0 +1,25 @@
+{
+  "name": "Macaucasinolisboa",
+  "logoURI": "https://raw.githubusercontent.com/d1ggy1bh/MCL/logo.svg",
+  "keywords": [
+     "mcl",
+     "MCL",
+     "Mcl"
+    ],
+    "timestamp": "2022-01-17T22:34:34.305Z",
+    "tokens": [
+      {
+      "chainId": 56,
+      "address": "0xe56ca5b74771f7152bdd7cfca9434e63b4698a25",
+      "name": "Macaucasinolisboa",
+      "symbol": "MCL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/d1ggy1bh/MCL/logo.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
