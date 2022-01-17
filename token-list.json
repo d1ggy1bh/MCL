@@ -1,6 +1,6 @@
 {
   "name": "Macaucasinolisboa",
-  "logoURI": "https://raw.githubusercontent.com/d1ggy1bh/MCL/img/logo.svg",
+  "logoURI": "https://raw.githubusercontent.com/d1ggy1bh/MCL/main/img/logo.svg",
   "keywords": [
      "mcl",
      "MCL",
@@ -14,7 +14,7 @@
       "name": "Macaucasinolisboa",
       "symbol": "MCL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/d1ggy1bh/MCL/img/logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/d1ggy1bh/MCL/main/img/logo.svg"
       }
     ],
     "version": {
